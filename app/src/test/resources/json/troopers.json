@@ -1,0 +1,76 @@
+{
+  "Search":[
+    {
+      "Title":"Trooper Hook",
+      "Year":"1957",
+      "imdbID":"tt0051111",
+      "Type":"movie",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMzE3NTY1OTktNDY0Ny00MTY1LTlhYTgtNjc1OTMwNjllODc1XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Sky Trooper",
+      "Year":"1942",
+      "imdbID":"tt0035342",
+      "Type":"movie",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MTM0ODA5OF5BMl5BanBnXkFtZTcwMzMxMDkxMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Storm Trooper",
+      "Year":"1998",
+      "imdbID":"tt0145495",
+      "Type":"movie",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ5NzE5NTU2M15BMl5BanBnXkFtZTcwOTU4MDkzMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Armored Trooper Votoms",
+      "Year":"1983–",
+      "imdbID":"tt0085092",
+      "Type":"series",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4OTEzNDk0Nl5BMl5BanBnXkFtZTcwNjUxNDczMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Rogue Trooper",
+      "Year":"2006",
+      "imdbID":"tt0872265",
+      "Type":"game",
+      "Poster":"N/A"
+    },
+    {
+      "Title":"State Trooper",
+      "Year":"1956–",
+      "imdbID":"tt0050062",
+      "Type":"series",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTAxY2Y0MzAtMmNkYi00YzJjLWJkMjQtNjc4ZDgxMTI5NzBkXkEyXkFqcGdeQXVyNjY4Mzc0NA@@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Trooper and the Legend of the Golden Key",
+      "Year":"2012",
+      "imdbID":"tt2326714",
+      "Type":"movie",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BODQwMTQ0NTM2MV5BMl5BanBnXkFtZTgwMzIyNzA2MDE@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Wildcat Trooper",
+      "Year":"1936",
+      "imdbID":"tt0028508",
+      "Type":"movie",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BODk3NzE3MjgtODFlYi00MGJkLWE5ZTYtY2Y0NzZiMDJkZGIxXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Trooper",
+      "Year":"2010",
+      "imdbID":"tt1282093",
+      "Type":"movie",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjY5NzY3NDExNl5BMl5BanBnXkFtZTgwMjY5MDkzMzE@._V1_SX300.jpg"
+    },
+    {
+      "Title":"Yoroiden Samurai Trooper: Message",
+      "Year":"1991",
+      "imdbID":"tt0203228",
+      "Type":"movie",
+      "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MjYxMDY1MV5BMl5BanBnXkFtZTYwMTM0Njk5._V1_SX300.jpg"
+    }
+  ],
+  "totalResults":"34",
+  "Response":"True"
+}
